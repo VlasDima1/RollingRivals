@@ -2,12 +2,10 @@
 
 Features:
 
-Dual Dice Dynamics: Experience the thrill of rolling two dice at once, adding an extra layer of strategy and excitement to the game. Players can strategize and choose which die to use for their turn, influencing the overall gameplay strategy.
+Solo Dice Strategy: With a single die in play, each roll becomes a crucial decision. Players must weigh the risk and reward, choosing when to push their luck and when to play it safe.
 
-Interactive User Interface: The game boasts a visually appealing and user-friendly interface, with custom-designed graphics and animations enhancing the overall gaming experience. Clear and intuitive controls make it easy for players to immerse themselves in the competition.
+Intuitive User Interface: The game boasts a visually appealing and user-friendly interface, featuring custom-designed graphics and animations that enhance the gaming experience. Clear and intuitive controls make it easy for players to immerse themselves in the competition.
 
-Scoreboard and Turn Tracker: A dynamic scoreboard prominently displays each player's current score, while a turn tracker keeps players informed about whose turn it is. The visual feedback ensures a seamless and enjoyable gaming experience.
+Scoreboard and Turn Tracker: A dynamic scoreboard displays each player's current score, while a turn tracker keeps players informed about whose turn it is. The visual feedback ensures a seamless and enjoyable gaming experience.
 
-Customizable Settings: Players can tailor the game to their preferences by adjusting settings such as the target score, enabling or disabling special rules, and even choosing the appearance of their virtual dice.
-
-Responsive Design: The game is optimized for various screen sizes and devices, ensuring accessibility and a consistent gaming experience whether played on a desktop, tablet, or smartphone.
+Responsive Design: Optimized for various screen sizes and devices, "Rolling Rivals" ensures accessibility and a consistent gaming experience whether played on a desktop, tablet, or smartphone.
